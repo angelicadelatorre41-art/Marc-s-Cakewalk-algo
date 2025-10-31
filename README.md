@@ -1,1 +1,1 @@
-# Marc-s-Cakewalk-algo
+# Marc-s-Cakewalk-algo The program minimizes Marc’s total miles by sorting the cupcakes in descending order of calories, ensuring he eats the most calorie-dense cupcakes first. Each cupcake’s calorie count is multiplied by 2i2^i2i (where i is the eating order), and the sum of all these values gives the total miles Marc must walk.
